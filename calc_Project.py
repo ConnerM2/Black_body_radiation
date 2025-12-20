@@ -10,7 +10,7 @@ T = 5700                # K (Sun temperature)
 procyon = 6400
 sirius = 9200
 betelgeuse = 3400
-
+# this is a test
 # wavelength array in micrometers -> convert to meters
 u = np.linspace(0.01, 30.0, 2000)   
 # micrometers (start from 0.01 to avoid division issues)
